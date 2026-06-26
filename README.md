@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Terminal-style Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&text=dragon%40kali%3A~%23&fontSize=42&fontColor=22c55e&fontFamily=monospace&desc=student%20%7C%20cybersecurity%20%7C%20web%20app%20security&descColor=555555&descSize=15&descAlignY=73&fontAlignY=44" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&text=Dragon%40kali%3A~%23&fontSize=42&fontColor=22c55e&fontFamily=monospace&desc=student%20%7C%20cybersecurity%20%7C%20web%20app%20security&descColor=555555&descSize=15&descAlignY=73&fontAlignY=44" width="100%"/>
 
 <!-- Terminal Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=22C55E&center=true&vCenter=true&width=640&lines=dragon%40kali%3A~%24+whoami;+%3E+student+%7C+cybersecurity+%7C+web+app+security;dragon%40kali%3A~%24+cat+focus.txt;+%3E+breaking+things+to+make+them+safer.;dragon%40kali%3A~%24+python3+learn.py+--progress;+%3E+still+going...;dragon%40kali%3A~%24+_" alt="Typing SVG" />
