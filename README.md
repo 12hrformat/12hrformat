@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Links styled as terminal flags -->
-[![Instagram](https://img.shields.io/badge/──%20instagram-%4012hrfor.at-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/12hrfor.at)
+[![Instagram](https://img.shields.io/badge/──%20instagram-%4012hrformat-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/12hrfor.at)
 [![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
 [![GitHub](https://img.shields.io/badge/──%20github-12hrformat-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/12hrformat)
 
