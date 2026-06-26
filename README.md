@@ -1,68 +1,72 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,9&height=200&section=header&text=Dragon&fontSize=60&fontColor=22c55e&animation=twinkling&fontAlignY=36&desc=Student%20%7C%20Cybersecurity%20%7C%20Web%20App%20Security&descAlignY=56&descSize=17&descColor=aaaaaa" width="100%"/>
+<!-- Terminal-style Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&text=dragon%40kali%3A~%23&fontSize=42&fontColor=22c55e&fontFamily=monospace&desc=student%20%7C%20cybersecurity%20%7C%20web%20app%20security&descColor=555555&descSize=15&descAlignY=73&fontAlignY=44" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=22C55E&center=true&vCenter=true&width=660&lines=Student+%7C+Cybersecurity;Web+App+Security+%26+Pentesting;Learning+Python+%F0%9F%90%8D;Breaking+things+to+make+them+safer." alt="Typing SVG" />
-
-<br/>
-
-<!-- Badges -->
-![](https://img.shields.io/badge/Student-Cybersecurity-22C55E?style=flat-square&logo=academia&logoColor=white)
-![](https://img.shields.io/badge/Focus-Web%20App%20Security-16A34A?style=flat-square)
-![](https://img.shields.io/badge/Learning-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br/><br/>
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-@12hrfor.at-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/12hrfor.at)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-12hrformat@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-12hrformat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/12hrformat)
+<!-- Terminal Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=22C55E&center=true&vCenter=true&width=640&lines=dragon%40kali%3A~%24+whoami;+%3E+student+%7C+cybersecurity+%7C+web+app+security;dragon%40kali%3A~%24+cat+focus.txt;+%3E+breaking+things+to+make+them+safer.;dragon%40kali%3A~%24+python3+learn.py+--progress;+%3E+still+going...;dragon%40kali%3A~%24+_" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=22C55E&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/12hrformat?style=flat-square&color=22C55E&logo=github&label=Followers)
+<!-- Links styled as terminal flags -->
+[![Instagram](https://img.shields.io/badge/──%20instagram-%4012hrfor.at-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/12hrfor.at)
+[![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
+[![GitHub](https://img.shields.io/badge/──%20github-12hrformat-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/12hrformat)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=22C55E&label=profile+views)
+![Followers](https://img.shields.io/github/followers/12hrformat?style=flat-square&color=22C55E&logo=github&label=followers)
 
 </div>
 
 ---
 
-## ◼ About Me
+## `$ whoami`
 
-I'm **Dragon** — a **student** with a focus on **cybersecurity** and **web application security**. I'm into finding what breaks before someone else does.
+```bash
+┌──(dragon㉿kali)-[~]
+└─$ cat about.txt
 
-Currently sharpening my skills in **web app pentesting** and picking up **Python** to build my own tools. No hackathons yet — but that's on the list.
+  name    : dragon
+  role    : student | cybersecurity | web app security
+  focus   : finding what breaks before someone else does.
+
+  currently sharpening skills in web app pentesting and
+  picking up python to build my own tools. no hackathons
+  yet — but that changes.
+
+  motto   : "i read the docs. then i break the docs."
+```
 
 **What I do:**
 - 🔍 Research and test **web application vulnerabilities**
 - 🛡️ Study **OWASP Top 10** and real-world attack vectors
-- 🐍 Learning **Python** to automate security workflows
-- 📖 Deep-diving into **Information Assurance** concepts
+- 🐍 Learn **Python** to automate security workflows
+- 💻 Explore **network security** and system fundamentals
 
 ---
 
-## ⚙️ Tools & Stack
+## `$ ls tools/`
 
 <div align="center">
 
-**Security**
+**`[ security ]`**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
-**Languages & Web**
+**`[ languages ]`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Other**
+**`[ environment ]`**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,29 +76,33 @@ Currently sharpening my skills in **web app pentesting** and picking up **Python
 
 ---
 
-## 📋 TODO
+## `$ cat todo.txt`
 
-**Learning**
-- [done] Finish Python basics
+```
+# legend: [x] done  |  [ ] pending
+```
+
+**`// learning`**
+- [x] Finish Python basics
 - [ ] Complete OWASP Top 10 deep dive
-- [done] Learn SQL injection hands-on (SQLi labs)
+- [x] Learn SQL injection hands-on (SQLi labs)
 - [ ] Study XSS attack & defense patterns
-- [done] Understand CSRF and SSRF vulnerabilities
+- [x] Understand CSRF and SSRF vulnerabilities
 
-**Practice**
-- [done] Set up a home pentesting lab
-- [done] Try first CTF challenge
-- [done] Hack your first box on HackTheBox or TryHackMe
+**`// practice`**
+- [x] Set up a home pentesting lab
+- [x] Try first CTF challenge
+- [x] Root first box on HackTheBox / TryHackMe
 - [ ] Write a bug report / disclosure write-up
 
-**Build**
-- [done] Write a Python recon script
+**`// build`**
+- [x] Write a Python recon script
 - [ ] Build a simple port scanner
-- [ ] Attend a hackathon (i cant because im not 18)
+- [ ] Attend a hackathon
 
 ---
 
-## 📊 GitHub Stats
+## `$ github-stats --user 12hrformat`
 
 <div align="center">
 
@@ -103,13 +111,13 @@ Currently sharpening my skills in **web app pentesting** and picking up **Python
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=FF6B6B&currStreakLabel=22C55E&sideLabels=22C55E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `$ ./snake.sh`
 
 <div align="center">
 
@@ -125,8 +133,6 @@ Currently sharpening my skills in **web app pentesting** and picking up **Python
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,9&height=100&section=footer" width="100%"/>
-
-`dragon@shell:~$ whoami` &nbsp;→&nbsp; *someone who reads the manual.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=50&text=dragon%40kali%3A~%24+exit+0&fontSize=18&fontColor=22c55e&fontFamily=monospace" width="100%"/>
 
 </div>
