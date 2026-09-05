@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Links styled as terminal flags -->
-[![Instagram](https://img.shields.io/badge/──%20instagram-%4012hrformat-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/12hrfor.at)
+[![Instagram](https://img.shields.io/badge/──%20instagram-%40mommy_said_im_special-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mommy_said_im_special)
 [![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
 [![GitHub](https://img.shields.io/badge/──%20github-12hrformat-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/12hrformat)
 
@@ -29,14 +29,14 @@
 └─$ cat about.txt
 
   name    : dragon
-  role    : student | cybersecurity | web app security
-  focus   : finding what breaks before someone else does.
+  role    : student
+  focus   : something
 
   currently sharpening skills in web app pentesting and
   picking up python to build my own tools. no hackathons
   yet — but that changes.
 
-  motto   : "i read the docs. then i break the docs."
+  motto   : "if it works, dont touch it"
 ```
 
 **What I do:**
@@ -64,7 +64,6 @@
 ![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **`[ environment ]`**
 
