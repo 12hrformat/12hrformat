@@ -1,154 +1,130 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ -->
+<!-- Terminal-style Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&text=Dragon%40kali%3A~%23&fontSize=42&fontColor=22c55e&fontFamily=monospace&desc=student%20%7C%20cybersecurity%20%7C%20web%20app%20security&descColor=555555&descSize=15&descAlignY=73&fontAlignY=44" width="100%"/>
 
-<!-- HERO -->
-
-<!-- ═══════════════════════════════════════════ -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=70&duration=2200&pause=1000&color=FFD60A&center=true&vCenter=true&repeat=true&width=900&height=120&lines=DRAGON;DRAGON_;DRAGON%2F%2F"
-alt="DRAGON"
-/>
-
-<!-- animated subtitle -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=900&color=9CA3AF&center=true&vCenter=true&width=720&lines=student+%C2%B7+developer+%C2%B7+security;learning+how+things+actually+work.;building+projects+and+breaking+my+own+code.;currently+turning+caffeine+into+commits."
-alt="Typing SVG"
-/>
+<!-- Terminal Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=22C55E&center=true&vCenter=true&width=640&lines=dragon%40kali%3A~%24+whoami;+%3E+student+%7C+cybersecurity+%7C+web+app+security;dragon%40kali%3A~%24+cat+focus.txt;+%3E+breaking+things+to+make+them+safer.;dragon%40kali%3A~%24+python3+learn.py+--progress;+%3E+still+going...;dragon%40kali%3A~%24+_" alt="Typing SVG" />
 
 <br/>
 
-<!-- animated pulse -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=FFD60A&height=5&section=header&text=&fontSize=1&animation=fadeIn"
-width="65%"
-/>
-
-<br/><br/>
-
-<!-- status feed -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=FFD60A&center=true&vCenter=true&repeat=true&width=700&lines=%5B+SYSTEM+%5D+%E2%9C%93+ONLINE;%5B+STATUS+%5D+learning+new+things;%5B+BUILD+%5D+in+progress...;%5B+GITHUB+%5D+push+%E2%86%92+commit+%E2%86%92+repeat;%5B+MIND+%5D+too+many+ideas+running."
-alt="Status animation"
-/>
+<!-- Links styled as terminal flags -->
+[![Instagram](https://img.shields.io/badge/──%20instagram-%40mommy_said_im_special-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mommy_said_im_special)
+[![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
+[![GitHub](https://img.shields.io/badge/──%20github-12hrformat-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/12hrformat)
 
 <br/>
 
-<!-- Social links -->
-
-<a href="https://github.com/12hrformat">
-<img src="https://img.shields.io/badge/GitHub-12hrformat-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD60A"/>
-</a>
-
-<a href="https://instagram.com/mommy_said_im_special">
-<img src="https://img.shields.io/badge/Instagram-%40mommy__said__im__special-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFD60A"/>
-</a>
-
-<a href="mailto:12hrformat@proton.me">
-<img src="https://img.shields.io/badge/Email-Proton-0D0D0D?style=for-the-badge&logo=protonmail&logoColor=FFD60A"/>
-</a>
-
-<br/><br/>
-
-<!-- Dynamic profile counters -->
-
-<img src="https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=FFD60A&label=profile+views"/>
-
-<img src="https://img.shields.io/github/followers/12hrformat?style=flat-square&color=FFD60A&label=followers"/>
-
-<img src="https://img.shields.io/github/stars/12hrformat?affiliations=OWNER&style=flat-square&color=FFD60A&label=stars"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-
-<!-- SCROLL TRANSITION -->
-
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=500&lines=scroll+down+%E2%86%93;there%27s+more+below.;keep+going..."
-alt="Scroll"
-/>
+![Profile Views](https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=22C55E&label=profile+views)
+![Followers](https://img.shields.io/github/followers/12hrformat?style=flat-square&color=22C55E&logo=github&label=followers)
 
 </div>
 
 ---
 
-# About
+## `$ whoami`
 
-```text id="a6g1ue"
-name       dragon
-role       student
+```bash
+┌──(dragon㉿kali)-[~]
+└─$ cat about.txt
 
-currently
-├── learning web application security
-├── building things with python
-├── experimenting with linux
-└── trying to make more than "hello world"
+  name    : dragon
+  role    : student
+  focus   : something
+
+  currently sharpening skills in web app pentesting and
+  picking up python to build my own tools. no hackathons
+  yet — but that changes.
+
+  motto   : "if it works, dont touch it"
 ```
 
+**What I do:**
+- 🔍 Research and test **web application vulnerabilities**
+- 🛡️ Study **OWASP Top 10** and real-world attack vectors
+- 🐍 Learn **Python** to automate security workflows
+- 💻 Explore **network security** and system fundamentals
+
+---
+
+## `$ ls tools/`
+
 <div align="center">
 
-<!-- animated mini banner -->
+**`[ security ]`**
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=FFD60A&center=true&vCenter=true&width=650&lines=%E2%9C%A6+curiosity+is+the+best+debugger;%E2%9C%A6+documentation+is+part+of+the+project;%E2%9C%A6+if+it+works...+commit+it."
-alt="Quote"
-/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+**`[ languages ]`**
+
+![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**`[ environment ]`**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 
 </div>
 
 ---
 
-# Activity
+## `$ cat todo.txt`
+
+```
+# legend: [x] done  |  [ ] pending
+```
+
+**`// learning`**
+- [x] Finish Python basics
+- [ ] Complete OWASP Top 10 deep dive
+- [x] Learn SQL injection hands-on (SQLi labs)
+- [ ] Study XSS attack & defense patterns
+- [x] Understand CSRF and SSRF vulnerabilities
+
+**`// practice`**
+- [x] Set up a home pentesting lab
+- [x] Try first CTF challenge
+- [x] Root first box on HackTheBox / TryHackMe
+- [ ] Write a bug report / disclosure write-up
+
+**`// build`**
+- [x] Write a Python recon script
+- [ ] Build a simple port scanner
+- [ ] Attend a hackathon
+
+---
+
+## `$ github-stats --user 12hrformat`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=12hrformat&show_icons=true&hide_border=true&bg_color=050505&title_color=FFD60A&text_color=ffffff&icon_color=FFD60A"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12hrformat&layout=compact&hide_border=true&bg_color=050505&title_color=FFD60A&text_color=ffffff"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&hide_border=true&background=050505&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=ffffff&dates=9CA3AF"/>
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=12hrformat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=ffffff&icon_color=22C55E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12hrformat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=ffffff" />
 
 <br/>
 
-<!-- animated contribution graph section -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=12hrformat&bg_color=050505&color=ffffff&line=FFD60A&point=FFD60A&area=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E" />
 
 </div>
 
 ---
 
-<div align="center">
+## `$ ./snake.sh`
 
-<!-- contribution snake -->
+<div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/12hrformat/12hrformat/output/github-contribution-grid-snake-dark.svg"
-  />
-
-<img
- alt="animated contribution snake"
- src="https://raw.githubusercontent.com/12hrformat/12hrformat/output/github-contribution-grid-snake-dark.svg"
-/> </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12hrformat/12hrformat/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12hrformat/12hrformat/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/12hrformat/12hrformat/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -156,13 +132,6 @@ alt="Quote"
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1200&color=FFD60A&center=true&vCenter=true&repeat=true&width=700&lines=still+learning.;still+building.;still+moving+forward."
-alt="Footer"
-/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a1600,100:FFD60A&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=50&text=dragon%40kali%3A~%24+exit+0&fontSize=18&fontColor=22c55e&fontFamily=monospace" width="100%"/>
 
 </div>
