@@ -14,7 +14,6 @@
 [![GitHub](https://img.shields.io/badge/──%20github-12hrformat-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/12hrformat)
 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?12hrformat=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile Views](https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=22C55E&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/12hrformat?style=flat-square&color=22C55E&logo=github&label=followers)
 
