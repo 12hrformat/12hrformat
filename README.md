@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=22C55E&center=true&vCenter=true&width=640&lines=dragon%40kali%3A~%24+whoami;+%3E+student+%7C+cybersecurity+%7C+web+app+security;dragon%40kali%3A~%24+cat+focus.txt;+%3E+breaking+things+to+make+them+safer.;dragon%40kali%3A~%24+python3+learn.py+--progress;+%3E+still+going...;dragon%40kali%3A~%24+_" alt="Typing SVG" />
 
 <br/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?12hrformat=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Links styled as terminal flags -->
 [![Instagram](https://img.shields.io/badge/──%20instagram-%40mommy_said_im_special-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mommy_said_im_special)
 [![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
