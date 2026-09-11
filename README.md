@@ -28,24 +28,23 @@
 
 ```bash
 ┌──(dragon㉿kali)-[~]
-└─$ cat about.txt
+└─$ cat aboutme.txt
 
-  name    : dragon
-  role    : student
-  focus   : something
+hey there! i'm dragon — a student currently in school,
 
-  currently sharpening skills in web app pentesting and
-  picking up python to build my own tools. no hackathons
-  yet — but that changes.
+i'm interested in cybersecurity, programming, linux, and building things that actually work.
 
-  motto   : "if it works, dont touch it"
+currently learning, experimenting, breaking stuff, and making things.
+
+still learning.
+
 ```
 
-**What I do:**
-- 🔍 Research and test **web application vulnerabilities**
-- 🛡️ Study **OWASP Top 10** and real-world attack vectors
-- 🐍 Learn **Python** to automate security workflows
-- 💻 Explore **network security** and system fundamentals
+**What I'm doing:**
+-  Trying Bug Bounties
+-  Making tools in python
+-  Learning Hacking
+-  Playing games all the time
 
 ---
 
@@ -71,17 +70,13 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
 
 ---
 
 ## `$ cat todo.txt`
-
-```
-# legend: [x] done  |  [ ] pending
-```
 
 **`// learning`**
 - [x] Finish Python basics
@@ -94,12 +89,12 @@
 - [x] Set up a home pentesting lab
 - [x] Try first CTF challenge
 - [x] Root first box on HackTheBox / TryHackMe
-- [ ] Write a bug report / disclosure write-up
+- [x] Write a bug report / disclosure write-up
 
 **`// build`**
 - [x] Write a Python recon script
-- [ ] Build a simple port scanner
-- [ ] Attend a hackathon
+- [x] Build a simple port scanner
+- [ ] Attend a hackathon (I'm not 18 yet)
 
 ---
 
