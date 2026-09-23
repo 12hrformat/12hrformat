@@ -16,7 +16,6 @@
 <br/>
 
 
-[![build-iso](https://github.com/12hrformat/copper/actions/workflows/build-iso.yml/badge.svg)](https://github.com/12hrformat/copper/actions/workflows/build-iso.yml)
 ![Profile Views](https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=22C55E&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/12hrformat?style=flat-square&color=22C55E&logo=github&label=followers)
 
