@@ -99,7 +99,7 @@ ourselves, and write the parts that make it *Copper* ourselves too: the shell
 wizard. Arch and Debian are good, but we wanted to do it *our* way — their
 source was used for reference, nothing more.
 
-The build pipeline produces a bootable ISO (~57 MB) that boots in a VM, with
+The build pipeline produces a bootable ISO (~600 MB) that boots in a VM, with
 XFCE as the desktop target. Wired networking, a hotfix system
 (`copper charge` / `copper rollback`), and a real rollback path are in place
 — WiFi and the full desktop stack are still being worked out.
