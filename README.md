@@ -13,7 +13,7 @@
 [![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
 
 <br/>
-
+</div>
 ## User Stats
 
 <div align="center">
@@ -24,7 +24,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E" />
-
 
 </div>
 
