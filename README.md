@@ -11,11 +11,10 @@
 <!-- Links styled as terminal flags -->
 [![Instagram](https://img.shields.io/badge/──%20instagram-%40mommy_said_im_special-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mommy_said_im_special)
 [![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
-[![GitHub](https://img.shields.io/badge/──%20github-12hrformat-22C55E?style=flat-square&logo=github&logoColor=white)](https://github.com/12hrformat)
 
 <br/>
 
-
+![GitHub Contributions](https://img.shields.io/github/commit-activity/y/12hrformat?style=flat-square&color=22C55E&label=yearly%20commits)
 ![Profile Views](https://komarev.com/ghpvc/?username=12hrformat&style=flat-square&color=22C55E&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/12hrformat?style=flat-square&color=22C55E&logo=github&label=followers)
 
@@ -23,11 +22,9 @@
 
 ---
 
-## `$ whoami`
-
-```bash
-┌──(dragon㉿kali)-[~]
-└─$ cat aboutme.txt
+## whoami
+```
+cat aboutme.txt
 
 hey there! i'm dragon — a student currently in school,
 
@@ -36,7 +33,6 @@ i'm interested in cybersecurity, programming, linux, and building things that ac
 currently learning, experimenting, breaking stuff, and making things.
 
 still learning.
-
 ```
 
 **What I'm doing:**
@@ -44,23 +40,23 @@ still learning.
 -  Making tools in python
 -  Learning Hacking
 -  Playing games all the time
+-  Learning coding
 
 ---
 
-## `$ ls tools/`
+## Things i know
 
 <div align="center">
 
 **`[ security ]`**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+##### basic hacking tools and scripts and things
 
 **`[ languages ]`**
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,12 +66,14 @@ still learning.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Copper Linux](https://img.shields.io/badge/Copper_Linux-B87333?style=for-the-badge&logo=linux&logoColor=white)
+![Deadlight Linux](https://img.shields.io/badge/Deadlight_Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## `$ ls ~/projects/`
+## Say hi to Copper and Deadlight linux
 
 <div align="center">
 
@@ -104,8 +102,8 @@ XFCE as the desktop target. Wired networking, a hotfix system
 (`copper charge` / `copper rollback`), and a real rollback path are in place
 — WiFi and the full desktop stack are still being worked out.
 
-→ [copper-linux.github.io/Copper-linux-website](https://copper-linux.github.io/Copper-linux-website/) ·
-[Copper-linux/copper](https://github.com/Copper-linux/copper)
+[Copper-linux-website](https://12hrformat.github.io/copperlinux-site/)
+[12hrformat/copperlinux](https://github.com/12hrformat/copperlinux)
 
 ### Deadlight Linux
 
@@ -136,11 +134,11 @@ so it works out of the box instead of needing a setup pass afterwards.
 **`// build`**
 - [x] Write a Python recon script
 - [x] Build a simple port scanner
-- [ ] Attend a hackathon (I'm not 18 yet)
+- [x] Attend a hackathon
 
 ---
 
-## `$ github-stats --user 12hrformat`
+## User Stats
 
 <div align="center">
 
