@@ -25,14 +25,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E" />
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=50&text=dragon%40kali%3A~%24+exit+0&fontSize=18&fontColor=22c55e&fontFamily=monospace" width="100%"/>
-
-</div>
-
 
 </div>
 
