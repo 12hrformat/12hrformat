@@ -154,19 +154,6 @@ so it works out of the box instead of needing a setup pass afterwards.
 
 ---
 
-## User Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=12hrformat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=ffffff&icon_color=22C55E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12hrformat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E" />
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=50&text=dragon%40kali%3A~%24+exit+0&fontSize=18&fontColor=22c55e&fontFamily=monospace" width="100%"/>
