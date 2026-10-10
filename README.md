@@ -96,7 +96,11 @@ still learning.
 
 </div>
 
+<div alig="center">
+
 ### Copper Linux
+
+</div>
 
 <div align="center">
   <img src="copper-logo.png" alt="Copper Linux logo" width="180" />
