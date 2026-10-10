@@ -14,6 +14,7 @@
 
 <br/>
 </div>
+
 ## User Stats
 
 <div align="center">
@@ -80,8 +81,12 @@ still learning.
 
 ---
 
-## Say hi to Copper and Deadlight linux
+<div align="center">
 
+  # Say hi to Copper and Deadlight linux
+
+</div>
+  
 <div align="center">
 
 **`[ our distros ]`**
