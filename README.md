@@ -103,7 +103,7 @@ still learning.
 </div>
 
 <div align="center">
-  <img src="copper-logo.png" alt="Copper Linux logo" width="180" />
+  <img src="copper.png" alt="Copper Linux logo" width="180" />
 </div>
 
 Copper is a daily-driving Linux distro built from source — not a rebrand of
