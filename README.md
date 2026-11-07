@@ -8,13 +8,6 @@
 
 <br/>
 
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-07050C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://github.com/12hrformat"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
-<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=12hrformat&label=PROFILE+VIEWS&color=C59BFF&style=flat-square" alt="Profile views" />
 
 </div>
@@ -26,54 +19,23 @@
 ```typescript
 const Dragon = {
   github: "@12hrformat",
-  role: "✏️ your role",
-  aka: "Mewtwo, Tech Angel, Famous Baddie, Emily",
-  currently: "✏️ your currently",
+  role: "Student",
+  aka: "Dragon",
   interests: [
-    "Consumer Technology",
-    "AI & Creative Technology",
-    "3D Wearable Fashion",
-    "Onchain Products",
-    "Neurotechnology"
+    "Cybersecurity",
+    "#makeAImediocreagain",
+    "Sketching",
+    "Coding",
+    "Gaming"
   ],
-  languages: ["TypeScript", "JavaScript", "Move", "ATC Radio English"],
-  philosophy: "Make useful things, then make them fun and fundable."
+  languages: ["Bash, HTML, Python, C, git"],
+  philosophy: "Privacy should be the default"
 };
 ```
 
-<em>✏️ A sentence about you and what you do.</em>
+<em> Just a kid with a dreammm </em>
 
-<em>✏️ A sentence about you and what you do.</em>
-
-<em>✏️ A sentence about you and what you do.</em>
-
-> nobody owns a fox.
-
----
-
-## 02. tech & tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,bash,git,github,vscode&perline=8&theme=dark" alt="Development tools" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TypeScript-07050C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-A66CCD?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Move-C59BFF?style=flat-square&logoColor=07050C" alt="Move" />
-<img src="https://img.shields.io/badge/HTML-07050C?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-A66CCD?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Shell-C59BFF?style=flat-square&logo=gnubash&logoColor=07050C" alt="Shell" />
-<img src="https://img.shields.io/badge/SQL-07050C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-
-<br/><br/>
-
-<em>✏️ The tools you reach for, in a sentence.</em>
-
-</div>
-
----
+<br>
 
 ## 03. things i've built
 
@@ -145,7 +107,7 @@ No terminal required.
 </table>
 
 <details>
-<summary><b><em>✏️ What you built and why it matters.</em></b></summary>
+<summary><b><em> Building because i love building. Simple </em></b></summary>
 
 <br/>
 
