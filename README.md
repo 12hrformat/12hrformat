@@ -1,156 +1,291 @@
 <div align="center">
 
-<!-- Terminal-style Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&text=Dragon%40kali%3A~%23&fontSize=42&fontColor=22c55e&fontFamily=monospace&desc=student%20%7C%20cybersecurity%20%7C%20web%20app%20security&descColor=555555&descSize=15&descAlignY=73&fontAlignY=44" width="100%"/>
-
-<!-- Terminal Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=22C55E&center=true&vCenter=true&width=640&lines=dragon%40kali%3A~%24+whoami;+%3E+student+%7C+cybersecurity+%7C+web+app+security;dragon%40kali%3A~%24+cat+focus.txt;+%3E+breaking+things+to+make+them+safer.;dragon%40kali%3A~%24+python3+learn.py+--progress;+%3E+still+going...;dragon%40kali%3A~%24+_" alt="Typing SVG" />
+<!---->
 
 <br/>
 
-<!-- Links styled as terminal flags -->
-[![Instagram](https://img.shields.io/badge/──%20instagram-%4012hrformat-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/12hrformat)
-[![ProtonMail](https://img.shields.io/badge/──%20email-12hrformat%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:12hrformat@proton.me)
-
-<br/>
-</div>
-
-## User Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=12hrformat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=ffffff&icon_color=22C55E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12hrformat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=22C55E&text_color=ffffff" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=Hi!+I'm+12hrformat+%F0%9F%91%8B" width="100%" alt="Animated introduction with four rotating messages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=12hrformat&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E" />
+<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-07050C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/12hrformat"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
+<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=12hrformat&label=PROFILE+VIEWS&color=C59BFF&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## whoami
-```
-cat aboutme.txt
+## 01. whoami
 
-hey there! i'm dragon — a student currently in school,
-
-i'm interested in cybersecurity, programming, linux, and building things that actually work.
-
-currently learning, experimenting, breaking stuff, and making things.
-
-still learning.
+```typescript
+const Dragon = {
+  github: "@12hrformat",
+  role: "✏️ your role",
+  aka: "Mewtwo, Tech Angel, Famous Baddie, Emily",
+  currently: "✏️ your currently",
+  interests: [
+    "Consumer Technology",
+    "AI & Creative Technology",
+    "3D Wearable Fashion",
+    "Onchain Products",
+    "Neurotechnology"
+  ],
+  languages: ["TypeScript", "JavaScript", "Move", "ATC Radio English"],
+  philosophy: "Make useful things, then make them fun and fundable."
+};
 ```
 
-**What I'm doing:**
--  Trying Bug Bounties
--  Making tools in python
--  Learning Hacking
--  Playing games all the time
--  Learning coding
+<em>✏️ A sentence about you and what you do.</em>
+
+<em>✏️ A sentence about you and what you do.</em>
+
+<em>✏️ A sentence about you and what you do.</em>
+
+> nobody owns a fox.
 
 ---
 
-## Things i know
+## 02. tech & tools
 
 <div align="center">
 
-**`[ security ]`**
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,bash,git,github,vscode&perline=8&theme=dark" alt="Development tools" />
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-##### basic hacking tools and scripts and things
+<br/><br/>
 
-**`[ languages ]`**
+<img src="https://img.shields.io/badge/TypeScript-07050C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-A66CCD?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Move-C59BFF?style=flat-square&logoColor=07050C" alt="Move" />
+<img src="https://img.shields.io/badge/HTML-07050C?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-A66CCD?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Shell-C59BFF?style=flat-square&logo=gnubash&logoColor=07050C" alt="Shell" />
+<img src="https://img.shields.io/badge/SQL-07050C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(learning)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br/><br/>
 
-**`[ environment ]`**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Copper Linux](https://img.shields.io/badge/Copper_Linux-B87333?style=for-the-badge&logo=linux&logoColor=white)
-![Deadlight Linux](https://img.shields.io/badge/Deadlight_Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+<em>✏️ The tools you reach for, in a sentence.</em>
 
 </div>
 
 ---
 
-<div align="center">
+## 03. things i've built
 
-  # Say hi to Copper and Deadlight linux
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
-  
-<div align="center">
+### claude-cursor-tips-for-creatives
 
-**`[ our distros ]`**
+<em>✏️ Say this in your own words.</em>
 
-![Copper Linux](https://img.shields.io/badge/Copper_Linux-8B4513?style=for-the-badge&logo=linux&logoColor=white)
-![Deadlight Linux](https://img.shields.io/badge/Deadlight_Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=22C55E)
+No terminal required.
 
-</div>
+<em>✏️ Say this in your own words.</em>
 
-<div alig="center">
+<a href="https://github.com/12hrformat?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Copper Linux
+</td>
+<td width="50%" valign="top">
 
-</div>
+### token-slayer
 
-<div align="center">
-  <img src="copper.png" alt="Copper Linux logo" width="180" />
-</div>
+<em>✏️ Say this in your own words.</em>
 
-Copper is a daily-driving Linux distro built from source — not a rebrand of
-Debian or Arch. We build the kernel, the libc (musl), and the userland
-ourselves, and write the parts that make it *Copper* ourselves too: the shell
-(`copper-sh`), the init system (`copper-init`), and the first-boot setup
-wizard. Arch and Debian are good, but we wanted to do it *our* way — their
-source was used for reference, nothing more.
+<em>✏️ Say this in your own words.</em>
 
-[Copper-linux-website](https://12hrformat.github.io/copperlinux-site/)
-[12hrformat/copperlinux](https://github.com/12hrformat/copperlinux)
+<em>✏️ Say this in your own words.</em>
 
-### Deadlight Linux
+<a href="https://github.com/12hrformat?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Deadlight is the security-focused twin of Copper — same base, different
-purpose. Where Copper is for daily use, Deadlight is aimed at cybersecurity
-work: penetration testing and security research, with the tooling preinstalled
-so it works out of the box instead of needing a setup pass afterwards.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Copper Linux and Deadlight Linux are both made by me and my team.**
+### qonnek
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<a href="https://github.com/12hrformat?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### STTH-buildathon
+
+<em>✏️ What you built and why it matters.</em>
+
+<em>✏️ What you built and why it matters.</em>
+
+<em>✏️ What you built and why it matters.</em>
+
+<a href="https://github.com/12hrformat?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b><em>✏️ What you built and why it matters.</em></b></summary>
+
+<br/>
+
+**willow**
+
+<em>✏️ What you built and why it matters.</em>
+
+[Explore repository](https://github.com/12hrformat?tab=repositories)
+
+**Wal-site**
+
+<em>✏️ What you built and why it matters.</em>
+
+[Explore repository](https://github.com/12hrformat?tab=repositories)
+
+</details>
 
 ---
 
-## `$ cat todo.txt`
+## 04. currently building
 
-**`// learning`**
-- [x] Finish Python basics
-- [ ] Complete OWASP Top 10 deep dive
-- [x] Learn SQL injection hands-on (SQLi labs)
-- [ ] Study XSS attack & defense patterns
-- [x] Understand CSRF and SSRF vulnerabilities
+<div align="center">
 
-**`// practice`**
-- [x] Set up a home pentesting lab
-- [x] Try first CTF challenge
-- [x] Root first box on HackTheBox / TryHackMe
-- [x] Write a bug report / disclosure write-up
+### YAPPA
 
-**`// build`**
-- [x] Write a Python recon script
-- [x] Build a simple port scanner
-- [x] Attend a hackathon
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-A66CCD?style=for-the-badge&labelColor=07050C" alt="Building" />
+
+<br/><br/>
+
+<a href="https://heyyappa.com">
+<img src="https://img.shields.io/badge/MEET_YAPPA-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa website" />
+</a>
+
+</div>
+
+---
+
+## 05. github activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=12hrformat&show_icons=true&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F&icon_color=743C91&ring_color=A66CCD" />
+  <img src="https://github-readme-stats.vercel.app/api?username=12hrformat&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="Mewtu GitHub statistics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=12hrformat&layout=compact&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12hrformat&layout=compact&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF" width="49%" alt="Most used languages" />
+</picture>
+
+<br/><br/>
+
+<h3>MEWTU CONTRIBUTION TRAIL</h3>
+
+<!---->
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=12hrformat&theme=default&hide_border=true&background=FFF8EF&ring=743C91&fire=A66CCD&currStreakLabel=743C91&sideLabels=3D0F3F&dates=743C91" />
+  <img src="https://streak-stats.demolab.com?user=12hrformat&theme=dark&hide_border=true&background=07050C&ring=C59BFF&fire=A66CCD&currStreakLabel=C59BFF&sideLabels=E8D7FF&dates=B89AD8" width="75%" alt="GitHub contribution streak" />
+</picture>
+
+</div>
+
+---
+
+## 06. beyond github
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+<div align="center">
+
+<a href="https://heyyappa.com">
+<img src="https://img.shields.io/badge/YAPPA-07050C?style=for-the-badge" />
+</a>
+<a href="https://junohauz.xyz">
+<img src="https://img.shields.io/badge/JUNOHAUZ-A66CCD?style=for-the-badge" />
+</a>
+<a href="https://luma.com/user/mews">
+<img src="https://img.shields.io/badge/EVENTS-C59BFF?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=50&text=dragon%40kali%3A~%24+exit+0&fontSize=18&fontColor=22c55e&fontFamily=monospace" width="100%"/>
+## 07. let's make something useful
+
+<em>✏️ Say this in your own words.</em>
+<em>✏️ Say this in your own words.</em>
+
+<br/>
+
+<!---->
+
+<br/>
+
+<a href="https://github.com/12hrformat">GitHub</a> · <a href="https://x.com/your-handle">X</a>
+
+<br/><br/>
+
+<em>✏️ Say this in your own words.</em>
+
+<sub><em>✏️ Say this in your own words.</em> <!----> </sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07050C,50:3D0F3F,100:C59BFF" width="100%" alt="Footer" />
 
 </div>
+
+<p align="center"><sub>Dragon · <a href="https://www.gitskins.com/readme-generator?template=community-not-your-average-readme-40hi">Not Your Average README</a> template by <a href="https://www.gitskins.com/creators/baddiecodes">@baddiecodes</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<!-- gitskins:architecture -->
+### How [copperlinux](https://github.com/12hrformat/copperlinux) works
+
+Copper Linux is a from-source daily-driver distro whose boot path runs copper-init (PID 1), a first-boot wizard that creates the account, and then a shell (copper-sh) with builtins.
+
+<a href="https://github.com/12hrformat/copperlinux"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=12hrformat&amp;repo=copperlinux&amp;theme=dark&amp;v=1794025941433">
+  <img alt="Architecture diagram of 12hrformat/copperlinux" src="https://www.gitskins.com/api/repo-diagram/image?owner=12hrformat&amp;repo=copperlinux&amp;theme=light&amp;v=1794025941433">
+</picture></a>
+
+<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
+<!-- /gitskins:architecture -->
